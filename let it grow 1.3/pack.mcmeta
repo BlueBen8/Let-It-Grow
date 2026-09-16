@@ -1,7 +1,7 @@
 {
 	"pack": {
 		"min_format": [94, 1],
-		"max_format": [107, 1],
+		"max_format": [121, 0],
 		"description": "A datapack by BlueBen8 that makes certain saplings drop more often and allows for crafting coral blocks from coral fans. Created for The Artisan Collective SMP."
 	}
 }
